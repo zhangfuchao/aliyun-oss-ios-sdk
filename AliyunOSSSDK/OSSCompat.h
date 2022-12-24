@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "OSSService.h"
+#import "OSSClient.h"
 
 @class OSSCancellationTokenSource;
 
