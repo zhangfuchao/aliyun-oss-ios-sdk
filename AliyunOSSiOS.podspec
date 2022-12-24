@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 
   s.authors      = { "Aliyun Open Service" => "aliyuncloudcomputing" }
 
-  s.source       = { :git => "https://github.com/aliyun/aliyun-oss-ios-sdk.git", :tag => "release_" + s.version.to_s }
+  s.source       = { :git => "https://github.com/zhangfuchao/aliyun-oss-ios-sdk.git", :tag => "release_" + s.version.to_s }
 
   s.requires_arc = true
 
